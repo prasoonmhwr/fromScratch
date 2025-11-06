@@ -1,1 +1,1 @@
-# A repo for all the code of research paper implementation from scratch
+# Codes of research paper implementation from scratch
